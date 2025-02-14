@@ -1,0 +1,57 @@
+/* filepath: /c:/Users/RAM LANDGE/Desktop/bs-scss-project/styles.scss */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.hero-banner {
+  display: flex;
+  align-items: center;
+  padding: 50px 0;
+}
+.hero-banner .hero-text h1 {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+  color: #1e354b;
+}
+.hero-banner .hero-text p {
+  font-size: 1.25rem;
+  margin-bottom: 20px;
+}
+.hero-banner .hero-text .btn {
+  font-size: 1rem;
+  padding: 10px 20px;
+}
+.hero-banner .hero-image img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 15px;
+  margin-top: 50px;
+}
+
+.navbar {
+  background-color: #1e354b;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  color: #fff;
+}
+.navbar .navbar-brand {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #fff;
+  height: 50px;
+  padding: 0px;
+}
+.navbar .navbar-nav {
+  margin-left: auto;
+}
+.navbar .nav-link {
+  font-size: 1rem;
+  margin-right: 15px;
+  color: #fff;
+}
+.navbar .nav-link:hover {
+  color: #8cb7e6;
+} /*# sourceMappingURL=style.css.map */
